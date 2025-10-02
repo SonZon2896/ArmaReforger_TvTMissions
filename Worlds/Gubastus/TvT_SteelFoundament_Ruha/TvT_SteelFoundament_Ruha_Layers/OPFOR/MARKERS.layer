@@ -287,4 +287,34 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
   m_bShowForAnyFaction 1
  }
+ {
+  coords 4756.883 73.02 2212.583
+  m_sImageSet "{A4A692135635424E}UI/Imagesets/Commanding/Commanding_Icons.imageset"
+  m_sImageSetGlow "{A4A692135635424E}UI/Imagesets/Commanding/Commanding_Icons.imageset"
+  m_sQuadName "get-in"
+  m_fWorldSize 20
+  m_sDescription "Zu-23"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF"
+  }
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4546.532 60.875 2053.944
+  m_sImageSet "{A4A692135635424E}UI/Imagesets/Commanding/Commanding_Icons.imageset"
+  m_sImageSetGlow "{A4A692135635424E}UI/Imagesets/Commanding/Commanding_Icons.imageset"
+  m_sQuadName "get-in"
+  m_fWorldSize 20
+  m_sDescription "Zu-23"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF"
+  }
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+ }
 }

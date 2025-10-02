@@ -17,14 +17,20 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  USAF_MISSION {
   m_sTitle "Задача USA"
   m_sTextData "1. Захватить флаг и удержать его в течение 3 минут."\
-  "2. Убить вражеского командира."
+  "2. Убить вражеского командира."\
+  ""\
+  "Дополнительно:"\
+  "  У противника имеется 2 установки Zu-23, расположенные в зоне триггера"
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
  AFRF_MISSION {
   m_sTitle "Задача ВСРФ"
   m_sTextData "1. Удержать флаг."\
-  "2. Не дать убить командира."
+  "2. Не дать убить командира."\
+  ""\
+  "Дополнительно:"\
+  "  В зоне триггера расположены 2 Zu-23 для борьбы с авиацией противника."
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
