@@ -13,6 +13,7 @@ GenericEntity FLAG_1 : "{F638E8AF02F38272}PrefabsEditable/Auto/Structures/Milita
     "RF_FLAG" "US_FLAG"
    }
    m_sUseNotification 1
+   m_sNotificationText "#drg_Flag_CapturedByFaction %1, игра не закончена, флаг можно перезахватить!"
   }
  }
  coords 4625.354 75.781 2083.711
