@@ -44,6 +44,7 @@ SCR_AIGroup AFRF_000 : "{52DBD8AD794AA412}Prefabs/Groups/OPFOR/drg_AFRF_CompanyH
  m_aUnitPrefabSlots {
   "{B9CD243AF2A9C3FC}Worlds/Gubastus/TvT_SteelFoundament_Ruha/Prefabs/drg_Role_RHS_AFRF_Army_Officer_VIP.et"
  }
+ m_sCustomNameSet "Командир ВСРФ (обязателен)"
 }
 $grp SCR_AIGroup : "{9C4C758203A42706}Prefabs/Groups/OPFOR/drg_AFRF_GRU.et" {
  AFRF_301 {
