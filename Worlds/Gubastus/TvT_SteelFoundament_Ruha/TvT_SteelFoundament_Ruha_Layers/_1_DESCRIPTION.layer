@@ -7,23 +7,24 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  }
  RULES {
   m_sTitle "Условности"
-  m_sTextData "1. Флаг не перезахватываемый."\
+  m_sTextData "1. Флаг перезахватываемый."\
   "2. Командиру русской стороны запрещено покидать триггер."\
-  "3. Вертолету запрещено таранить технику и зону триггера (приземление на крышу возможно)."\
-  "4. ВСРФ запрещено заходить в синию зону."\
-  "5. Флаг отмечен на карте."
+  "3. Вертолету запрещено таранить технику и зону триггера."\
+  "4. ВСРФ запрещено заходить в синию зону."
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
  USAF_MISSION {
   m_sTitle "Задача USA"
-  m_sTextData "Захватить флаг и убить вражеского командира."
+  m_sTextData "1. Захватить флаг и удержать его в течение 3 минут."\
+  "2. Убить вражеского командира."
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
  AFRF_MISSION {
   m_sTitle "Задача ВСРФ"
-  m_sTextData "Удержать флаг и не дать убить командира."
+  m_sTextData "1. Удержать флаг."\
+  "2. Не дать убить командира."
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
