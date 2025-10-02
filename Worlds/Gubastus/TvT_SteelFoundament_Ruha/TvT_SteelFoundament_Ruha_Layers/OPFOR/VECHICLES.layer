@@ -32,12 +32,3 @@ $grp Vehicle : "{95A220DF8D6E2543}Prefabs/Vehicles/Wheeled/TIGR/ArbaletDM/GAZ_TI
   angleY 50
  }
 }
-Vehicle M923A1_repair1 : "{A042ACE5C2B13206}Prefabs/Vehicles/Wheeled/M923A1/M923A1_repair.et" {
- coords 6575.305 96.837 1185
-}
-Vehicle M923A1_arsenal_MERDC1 : "{EA4819E0745DFAEA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal_MERDC.et" {
- coords 6585.305 96.837 1185
-}
-Vehicle M923A1_transport1 : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport.et" {
- coords 6595.305 96.837 1185
-}
