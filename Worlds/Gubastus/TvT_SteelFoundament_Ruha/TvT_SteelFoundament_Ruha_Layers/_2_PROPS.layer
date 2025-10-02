@@ -9,6 +9,9 @@ $grp Turret : "{1A407760EEAE4156}Prefabs/Vehicles/Static/BaconZU23/BaconZU23_Tur
 GenericEntity FLAG_1 : "{F638E8AF02F38272}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_TKR.et" {
  components {
   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_aObjectiveNames {
+    "RF_FLAG" "US_FLAG"
+   }
    m_sUseNotification 1
   }
  }
