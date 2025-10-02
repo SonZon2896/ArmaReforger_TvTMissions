@@ -1,0 +1,62 @@
+$grp Vehicle : "{21E9A875C0A3C409}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HE.et" {
+ UH1H_armed_gunship_HE1 {
+  coords 6555.126 96.69 1274.957
+ }
+ UH1H_armed_gunship_HE2 {
+  coords 6505.625 96.681 1290.971
+ }
+}
+$grp Vehicle : "{7F0CE77CBE1A1F65}Prefabs/Vehicles/Wheeled/M1240A1_MATV/M1240A1_MATV_Turret_Camo.et" {
+ M1240A1_MATV_Turret_Camo5 {
+  coords 6611.251 96.25 1641.219
+  angleY -72.253
+ }
+ M1240A1_MATV_Turret_Camo4 {
+  coords 6623.689 96.25 1636.42
+  angleY -72.253
+ }
+ M1240A1_MATV_Turret_Camo9 {
+  coords 2982.439 68.906 122.02
+  angleY 22.956
+ }
+ M1240A1_MATV_Turret_Camo2 {
+  coords 6661.583 96.25 1623.495
+  angleY -72.253
+ }
+ M1240A1_MATV_Turret_Camo6 {
+  coords 6672.647 96.25 1619.663
+  angleY -72.253
+ }
+ M1240A1_MATV_Turret_Camo1 {
+  coords 6648.517 96.25 1628.221
+  angleY -72.253
+ }
+ M1240A1_MATV_Turret_Camo10 {
+  coords 2966.128 68.905 85.455
+  angleY 22.956
+ }
+ M1240A1_MATV_Turret_Camo11 {
+  coords 2961.307 68.905 74.785
+  angleY 22.956
+ }
+ M1240A1_MATV_Turret_Camo12 {
+  coords 2972.02 68.905 98.04
+  angleY 22.956
+ }
+ M1240A1_MATV_Turret_Camo8 {
+  coords 2977.024 68.905 110.416
+  angleY 22.956
+ }
+ M1240A1_MATV_Turret_Camo7 {
+  coords 2988.347 68.906 133.971
+  angleY 22.956
+ }
+ M1240A1_MATV_Turret_Camo3 {
+  coords 6635.737 96.25 1632.081
+  angleY -72.253
+ }
+}
+Vehicle M998_covered1 : "{B55C6990A6A9411B}Prefabs/Vehicles/Wheeled/M998/M998_covered.et" {
+ coords 6692.677 96.25 1613.304
+ angleY -76.3
+}

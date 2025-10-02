@@ -1,0 +1,30 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ ABOUT {
+  m_sTitle "Лор"
+  m_sTextData "Америка продолжает оккупацию района \"Ruha\". Удалось захватить военный аэродром и перебросить войска. Следующая цель - Стройка."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ RULES {
+  m_sTitle "Условности"
+  m_sTextData "1. Флаг не перезахватываемый."\
+  "2. Командиру русской стороны запрещено покидать триггер."\
+  "3. Вертолету запрещено таранить технику и зону триггера (приземление на крышу возможно)."\
+  "4. ВСРФ запрещено заходить в синию зону."\
+  "5. Флаг отмечен на карте."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ USAF_MISSION {
+  m_sTitle "Задача USA"
+  m_sTextData "Захватить флаг и убить вражеского командира."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ AFRF_MISSION {
+  m_sTitle "Задача ВСРФ"
+  m_sTextData "Удержать флаг и не дать убить командира."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+}
